@@ -1,6 +1,6 @@
 # KatalyseGits
 Works projects
-# Name : ASNGAR 
+# @author_name : ASNGAR 
 #In here there will be all project i'll have to handle during my internship
 
 
